@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/SwiftyRage/Amaterasu-hub/Amaterasu-hub/Amaterasu%20Hub%20Loader"),true))()
